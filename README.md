@@ -2,17 +2,17 @@
 
 Step-by-step process
 
-Part 1: Brainstorm ideas
+ 1: Brainstorm ideas
 
-Part 2: Collect data (NBA games)
+ 2: Collect data (NBA games)
 
-Part 3: Clean and Explore data (feature engineering)
+ 3: Clean and Explore data (feature engineering)
 
-Part 4: Build a predictive model
+ 4: Build a predictive model
 
-Part 5: Deploy the model with FastAPI
+ 5: Deploy the model with FastAPI
 
-Part 6: Create a web app with Dash
+ 6: Create a web app with Dash
 
 Technologies that will be used
 
